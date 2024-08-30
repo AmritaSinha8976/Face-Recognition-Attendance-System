@@ -65,26 +65,6 @@ Make sure you have the following installed:
 
     Open your web browser and navigate to `http://localhost:5000`.
 
-### Project Structure
-
-```plaintext
-face-recognition-attendance-system/
-│
-├── static/
-│   ├── faces/           # Stores user face images
-│   ├── css/             # Contains custom CSS files
-│   └── js/              # Contains custom JavaScript files
-│
-├── templates/
-│   ├── home.html        # Main template file for the home page
-│
-├── Attendance/          # Stores attendance CSV files
-│
-├── app.py               # Main application file
-├── requirements.txt     # List of dependencies
-└── README.md            # Project documentation
-```
-
 ## Usage
 
 ### 1. Homepage (`/`)
